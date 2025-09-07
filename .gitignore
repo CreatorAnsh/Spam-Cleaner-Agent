@@ -1,0 +1,19 @@
+# Python files
+*.pyc
+__pycache__/
+
+# Google credentials
+token.pkl
+token.pickle
+credentials.json
+
+# Project data
+processed.json
+images/
+clean_images/
+# Virtual environment
+venv/
+
+# OS files
+.DS_Store
+
